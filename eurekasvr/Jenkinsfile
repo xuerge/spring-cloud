@@ -1,9 +1,15 @@
 pipeline {
     agent { docker 'maven:3-alpine' }
     stages {
-        stage('Example Build') {
+        stage('Build') {
             steps {
-                sh 'mvn -B clean verify'
+                sh 'mvn clean package docker:build'
+            }
+        }
+        stage('Deploy') {
+            steps {
+                sh 'docker stop eurekasvr'
+                sh 'docker run -d --rm -p 8761:8761 --name eurekasvr xuerge/eurekasvr:1.0'
             }
         }
     }
