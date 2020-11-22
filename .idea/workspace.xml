@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="bfc80457-4e24-4835-b398-58a5cc5301f7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1keTjHuoUGp9ESrv732TljsFf6z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/eurekasvr/src/main/resources" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.xuerge.eurekasvr" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/eurekasvr/src/main/resources" />
+      <recent name="$PROJECT_DIR$/eurekasvr/src/main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="EurekaServerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.xuerge.eurekasvr.EurekaServerApplication" />
+      <module name="eurekasvr" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.xuerge.eurekasvr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.EurekaServerApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bfc80457-4e24-4835-b398-58a5cc5301f7" name="Default Changelist" comment="" />
+      <created>1606060194090</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606060194090</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1226" height="126" key="GridCell.Tab.0.bottom" timestamp="1606061049148">
+      <screen x="0" y="1440" width="1280" height="752" />
+    </state>
+    <state width="1226" height="126" key="GridCell.Tab.0.bottom/0.1440.1280.752/0.23.2560.1417@0.1440.1280.752" timestamp="1606061049148" />
+    <state width="1226" height="126" key="GridCell.Tab.0.center" timestamp="1606061049147">
+      <screen x="0" y="1440" width="1280" height="752" />
+    </state>
+    <state width="1226" height="126" key="GridCell.Tab.0.center/0.1440.1280.752/0.23.2560.1417@0.1440.1280.752" timestamp="1606061049147" />
+    <state width="1226" height="126" key="GridCell.Tab.0.left" timestamp="1606061049147">
+      <screen x="0" y="1440" width="1280" height="752" />
+    </state>
+    <state width="1226" height="126" key="GridCell.Tab.0.left/0.1440.1280.752/0.23.2560.1417@0.1440.1280.752" timestamp="1606061049147" />
+    <state width="1226" height="126" key="GridCell.Tab.0.right" timestamp="1606061049148">
+      <screen x="0" y="1440" width="1280" height="752" />
+    </state>
+    <state width="1226" height="126" key="GridCell.Tab.0.right/0.1440.1280.752/0.23.2560.1417@0.1440.1280.752" timestamp="1606061049148" />
+    <state x="262" y="1525" width="755" height="582" key="find.popup" timestamp="1606061157929">
+      <screen x="0" y="1440" width="1280" height="752" />
+    </state>
+    <state x="262" y="1525" width="755" height="582" key="find.popup/0.1440.1280.752/0.23.2560.1417@0.1440.1280.752" timestamp="1606061157929" />
+    <state x="218" y="1440" width="862" height="752" key="new project wizard" timestamp="1606060448398">
+      <screen x="0" y="1440" width="1280" height="752" />
+    </state>
+    <state x="218" y="1440" width="862" height="752" key="new project wizard/0.1440.1280.752/0.23.2560.1417@0.1440.1280.752" timestamp="1606060448398" />
+  </component>
+</project>

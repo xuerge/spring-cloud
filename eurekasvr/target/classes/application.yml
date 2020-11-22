@@ -1,0 +1,16 @@
+#Default port is 8761
+server:
+  port: 8761
+
+eureka:
+  client:
+    # 告诉Eureka服务器，在Spring Boot Eureka应用程序启动时不要通过Eureka服务注册，因为他本身就是Eureka服务
+    registerWithEureka: false
+    # Eureka服务不尝试在本地缓存注册表信息
+    fetchRegistry: false
+  server:
+    # 不告诉任何通过它注册的服务，等待5分钟
+    # waitTimeInMsWhenSyncEmpty: 5
+  serviceUrl:
+    defaultZone: http://localhost:8761
+  
